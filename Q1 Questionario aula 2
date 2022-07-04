@@ -1,0 +1,11 @@
+public class HelloWorldApp {
+
+      public static void main(String[] args) {
+    	  double pessoa1 = 1.58;
+    	  double pessoa2 = 2.07;
+    	  double pessoa3 = 0.55;
+    	  double resultado = (pessoa1 + pessoa2 + pessoa3)/3;
+          
+          System.out.println(resultado);
+      }
+}
